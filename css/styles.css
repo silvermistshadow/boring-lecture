@@ -1,0 +1,12 @@
+h2.intro {
+font-style: italic;
+font-family: sans-serif;
+}
+
+p.intro {
+font-family: sans-serif;
+}
+
+img.intro {
+float: left;
+}
