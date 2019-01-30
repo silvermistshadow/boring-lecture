@@ -10,3 +10,13 @@ font-family: sans-serif;
 img.intro {
 float: left;
 }
+
+.highlight {
+  background-color: #FFFF00;
+}
+
+.parabox {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+}
